@@ -1,6 +1,8 @@
 # Testes de Desenvolvimento - Estágio SOITIC
 
-Este repositório contém os testes solicitados para a vaga de estágio em desenvolvimento na empresa SOITIC. No entanto, devido ao tamanho excedente da pasta de testes em React, não foi possível enviá-la diretamente para o GitHub. 
+Este repositório contém os testes solicitados para a vaga de estágio em desenvolvimento na empresa SOITIC. No entanto, devido ao tamanho excedente da pasta de testes em React, não foi possível enviá-la diretamente para o GitHub.
+
+Devido à minha inexperiência neste primeiro contato com o React, eu não tinha conhecimento de que o tamanho do arquivo aumentaria a ponto de exceder as limitações do projeto no Git.
 
 Para acessar a pasta de testes, utilize o link fornecido abaixo:
 [Link da pasta de testes](https://drive.google.com/drive/folders/1-IW9OL--a8XqwxPP1SytrUmD20a_azZF?usp=sharing)
